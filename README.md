@@ -8,7 +8,7 @@ Install the required libraries: web3.
 Copy code
 ``pip install web3``
 Replace the placeholders in the code with your own values:
-
+<br>
 my_address: your address on Binance Smart Chain
 my_private_key: your private key for my_address
 abi: the ABI of the contract for the token you want to buy
