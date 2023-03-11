@@ -9,13 +9,13 @@ Copy code
 ``pip install web3``
 Replace the placeholders in the code with your own values:
 <br>
-my_address: your address on Binance Smart Chain
-my_private_key: your private key for my_address
-abi: the ABI of the contract for the token you want to buy
-token_contract_address: the contract address of the token you want to buy
-factory_contract_address: the contract address of PancakeSwap's factory contract
-router_contract_address: the contract address of PancakeSwap's router contract
-Run the code in your Python environment:
+my_address: your address on Binance Smart Chain<br>
+my_private_key: your private key for my_address<br>
+abi: the ABI of the contract for the token you want to buy<br>
+token_contract_address: the contract address of the token you want to buy<br>
+factory_contract_address: the contract address of PancakeSwap's factory contract<br>
+router_contract_address: the contract address of PancakeSwap's router contract<br>
+Run the code in your Python environment:<br>
 
 Copy code
 ``python buy_token.py``
